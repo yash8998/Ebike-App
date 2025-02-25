@@ -1,5 +1,3 @@
-# M14-Team-Project
-
 ## Name
 E-Vehicle Share system
 
